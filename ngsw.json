@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1591948387070,
+  "timestamp": 1591961626940,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -26,11 +26,11 @@
         "/9-es5.248d435fdf19f17bed4f.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.7496316f50f6573a4de5.js",
-        "/main-es5.7496316f50f6573a4de5.js",
+        "/main-es2015.e26f3543554aba01248f.js",
+        "/main-es5.e26f3543554aba01248f.js",
         "/manifest.webmanifest",
-        "/polyfills-es2015.6f39f4977e56b4afd115.js",
-        "/polyfills-es5.8aa6eb36a551e6756d6b.js",
+        "/polyfills-es2015.561c26cd1800f2105bdd.js",
+        "/polyfills-es5.a33fb191ec1cdd3f54ac.js",
         "/runtime-es2015.c84496e1a2e50a69fd97.js",
         "/runtime-es5.c84496e1a2e50a69fd97.js",
         "/styles.c65a50e3e831faa4fd36.css"
@@ -105,12 +105,12 @@
     "/assets/vehicle-icon-64.svg": "4b4b6c6597566ad30c88b2090ef2189b4a16cfee",
     "/assets/vehicle-icon-white-64.svg": "9036ea71d2c841c161f5b661cef911021d63930f",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "f42666d60bbb253eac1e89143e79d7f9438d446f",
-    "/main-es2015.7496316f50f6573a4de5.js": "abae551db15b548db885288bba05e79484b242e9",
-    "/main-es5.7496316f50f6573a4de5.js": "04944d4fee9db309b3f301c88f204d528a65c49d",
+    "/index.html": "a3b0dc8f9371e72377b9e32a31879d3bdf10af8a",
+    "/main-es2015.e26f3543554aba01248f.js": "abae551db15b548db885288bba05e79484b242e9",
+    "/main-es5.e26f3543554aba01248f.js": "04944d4fee9db309b3f301c88f204d528a65c49d",
     "/manifest.webmanifest": "95dbfe068bb3d8f207d445b30edbbe9e655adaee",
-    "/polyfills-es2015.6f39f4977e56b4afd115.js": "fef3e11b1b013bbfb7f3888092c9a44f335c42f5",
-    "/polyfills-es5.8aa6eb36a551e6756d6b.js": "5bc74fbf5bc95ba4552c8b1742c0a706dea7511e",
+    "/polyfills-es2015.561c26cd1800f2105bdd.js": "fef3e11b1b013bbfb7f3888092c9a44f335c42f5",
+    "/polyfills-es5.a33fb191ec1cdd3f54ac.js": "5bc74fbf5bc95ba4552c8b1742c0a706dea7511e",
     "/runtime-es2015.c84496e1a2e50a69fd97.js": "a6bd842f475f5776229fdc9b6f58d9b7b1e22503",
     "/runtime-es5.c84496e1a2e50a69fd97.js": "e5bec582a7577e98fc3128a9dc798c725d19089a",
     "/styles.c65a50e3e831faa4fd36.css": "444a4bc181cebba8bdee08a9ca1fd9dbfae01508"
