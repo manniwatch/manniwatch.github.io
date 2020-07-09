@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594215172206,
+  "timestamp": 1594282475564,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -29,8 +29,8 @@
         "/9-es5.4241cc66cc92bdb2b7bf.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.9625f66839eefa0198d7.js",
-        "/main-es5.9625f66839eefa0198d7.js",
+        "/main-es2015.8894f74d79ec589cd3f6.js",
+        "/main-es5.8894f74d79ec589cd3f6.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.33ab5777c0e98b4154a9.js",
         "/polyfills-es5.2109733fe32184365c9f.js",
@@ -111,9 +111,9 @@
     "/assets/vehicle-icon-64.svg": "4b4b6c6597566ad30c88b2090ef2189b4a16cfee",
     "/assets/vehicle-icon-white-64.svg": "9036ea71d2c841c161f5b661cef911021d63930f",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d6ddcfb2a124cb1dddab1d17dbbdbc6d9437f0c2",
-    "/main-es2015.9625f66839eefa0198d7.js": "9ef1d84f5b70df3886e9f52429a22b35f887d7b9",
-    "/main-es5.9625f66839eefa0198d7.js": "98fcb87de543006d5b6dc78f25c249784837d9a4",
+    "/index.html": "cde553af4cf471bb9c18c40c902c7fe1a718affe",
+    "/main-es2015.8894f74d79ec589cd3f6.js": "c01420937ce90e1b06fe3e6e817309d84582fc09",
+    "/main-es5.8894f74d79ec589cd3f6.js": "5e7f63d570d438d5485cfbb3742f97ad8ac0c568",
     "/manifest.webmanifest": "95dbfe068bb3d8f207d445b30edbbe9e655adaee",
     "/polyfills-es2015.33ab5777c0e98b4154a9.js": "fef3e11b1b013bbfb7f3888092c9a44f335c42f5",
     "/polyfills-es5.2109733fe32184365c9f.js": "26fb6a7a017ab211e84b5d911421838223530e8e",
