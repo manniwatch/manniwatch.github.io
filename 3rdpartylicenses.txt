@@ -359,9 +359,6 @@ date-fns is licensed under the [MIT license](http://kossnocorp.mit-license.org).
 Read more about MIT at [TLDRLegal](https://tldrlegal.com/license/mit-license).
 
 
-elm-pep
-MPL-2.0
-
 ol
 BSD-2-Clause
 
