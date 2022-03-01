@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanniwatch=self.webpackChunkmanniwatch||[]).push([[592],{2328:(M,E,a)=>{a.d(E,{G:()=>s});var n=a(9808),o=a(7423),t=a(8966),l=a(5245),r=a(5e3);let s=(()=>{class _{}return _.\u0275fac=function(D){return new(D||_)},_.\u0275mod=r.oAB({type:_}),_.\u0275inj=r.cJS({providers:[],imports:[[n.ez,l.Ps,o.ot,t.Is],n.ez,l.Ps,o.ot,t.Is]}),_})()}}]);
